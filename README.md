@@ -1,4 +1,4 @@
-# Aplicação Web com Banco de Dados
+# Aplicação Web com AWS EC2 e Banco RDS
 
 ## Tabela de Conteúdo
 
