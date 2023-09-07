@@ -20,4 +20,8 @@ Este projeto demonstra uma aplicação web simples integrada a um banco de dados
 - Listagem de registros da tabela EXTRA_INFOS.
 
 ## Demo em Vídeo
-Segue o [link para o vídeo](URL) que mostra a implantação e descreve o funcionamento do projeto.
+Segue vídeo que mostra a implantação e descreve o funcionamento do projeto.
+
+
+https://github.com/brunomleao/entrega_ponderadaPROG3/assets/99328889/c97e085a-5c7f-42b5-a01c-7559601f2063
+
